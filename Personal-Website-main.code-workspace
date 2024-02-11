@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../hugo-theme-gallery-main"
+		},
+		{
+			"path": "../hugo-blox-builder-main/starters/research-group"
+		}
+	],
+    "settings": {}
+}
