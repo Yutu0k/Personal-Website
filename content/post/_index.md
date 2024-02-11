@@ -1,7 +1,4 @@
 ---
-<<<<<<< HEAD
-title: Blog
-=======
 title: Posts
 cms_exclude: true
 
@@ -15,5 +12,4 @@ view: 2
 header:
   caption: ''
   image: ''
->>>>>>> 21e9d32 (New Website Change)
 ---
