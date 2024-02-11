@@ -6,9 +6,5 @@
 
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-<<<<<<< HEAD
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
-=======
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
->>>>>>> 21e9d32 (New Website Change)

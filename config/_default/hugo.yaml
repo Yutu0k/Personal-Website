@@ -3,7 +3,6 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-<<<<<<< HEAD
 title: Creator's Blog (Hugo Theme) # Website name
 baseURL: 'https://example.com/' # Website URL
 
@@ -31,7 +30,6 @@ cascade:
         enable: true
 
 ############################
-=======
 title: Yutu0k # Website name 
 
 # The website name will be shown at the navibar if there is no logo
@@ -51,10 +49,8 @@ removePathAccents: true
 ## ADVANCED
 ############################
 
-<<<<<<< HEAD
 build:
   writeStats: true
-=======
 
 enableGitInfo: false
 summaryLength: 30
@@ -64,7 +60,6 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-<<<<<<< HEAD
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
@@ -75,7 +70,6 @@ outputs:
 imaging:
   resampleFilter: lanczos
   quality: 95
-=======
   event: '/talk/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
@@ -92,7 +86,6 @@ timeout: 600000
 taxonomies:
   tag: tags
   category: categories
-<<<<<<< HEAD
   author: authors
 markup:
   _merge: deep
@@ -101,7 +94,6 @@ markup:
     noHl: false
     noClasses: false
     lineNos: false
-=======
   publication_type: publication_types
   author: authors
 markup:
@@ -119,7 +111,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-<<<<<<< HEAD
-=======
 minify:
   _merge: deep
